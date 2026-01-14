@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="[(https://avatars.githubusercontent.com/u/161483617?v=4)]" width="180" style="border-radius:50%;">
+      <img src="https://your-image-link.com./profile-photo.jpg" width="180" style="border-radius:50%;">
     </td>
     <td>
       <h3>About Me</h3>
