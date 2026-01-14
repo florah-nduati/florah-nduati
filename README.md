@@ -1,19 +1,29 @@
-# Hi there 👋, I'm [Florah Nduati]
+# Hi there 👋, I'm Florah Nduati
 
-🚀 Passionate full stack Stack Developer | Building scalable APIs & engaging React UIs
+🚀 Passionate full-stack Developer | Building scalable APIs & engaging React UIs
 
 ---
 
-## About Me
+<table>
+  <tr>
+    <td>
+      <img src="[https://your-image-link.com/your-photo.jpg](https://avatars.githubusercontent.com/u/161483617?v=4)" width="180" style="border-radius:50%;">
+    </td>
+    <td>
+      <h3>About Me</h3>
+      I'm a full-stack developer specializing in the <b>PERN stack</b> (PostgreSQL, Express, React, Node.js).  
+      I enjoy crafting clean, maintainable code and building robust backend systems with efficient RESTful APIs.
 
-I'm a full-stack developer specializing in the **PERN stack** (PostgreSQL, Express, React, Node.js).  
-I enjoy crafting clean, maintainable code and building robust backend systems with efficient RESTful APIs.  
-
-- 🔭 Currently working on personal and open-source PERN projects  
-- 🌱 Continuously learning advanced backend design and cloud deployment  
-- 💬 Ask me about JavaScript, React, Node.js, PostgreSQL, REST APIs  
-- 👯 Open to collaborate on full-stack projects  
-- ⚡ Fun fact: I love solving coding puzzles and optimizing SQL queries!
+      <ul>
+        <li>🔭 Currently working on personal and open-source PERN projects</li>
+        <li>🌱 Continuously learning advanced backend design and cloud deployment</li>
+        <li>💬 Ask me about JavaScript, React, Node.js, PostgreSQL, REST APIs</li>
+        <li>👯 Open to collaborate on full-stack projects</li>
+        <li>⚡ Fun fact: I love solving coding puzzles and optimizing SQL queries!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,7 +48,7 @@ I enjoy crafting clean, maintainable code and building robust backend systems wi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkorah-nduati&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florah-nduati&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=florah-nduati&theme=radical)
 
@@ -48,21 +58,20 @@ I enjoy crafting clean, maintainable code and building robust backend systems wi
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN]([https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/florah-nduati-ab14b724b/))  
-- 🌐 Portfolio: [[https://your-portfolio-url.com](https://your-portfolio-url.com](https://portfolio-website-blond-seven.vercel.app/))  
+- 💼 LinkedIn: [https://linkedin.com/in/florah-nduati-ab14b724b/](https://linkedin.com/in/florah-nduati-ab14b724b/)  
+- 🌐 Portfolio: [https://portfolio-website-blond-seven.vercel.app/](https://portfolio-website-blond-seven.vercel.app/)  
 - 📧 Email: florahnduati68@gmail.com  
 
 ---
 
 ## 🚀 Projects I’m Proud Of
 
-### [Project 1 - BlogIt]([https://github.com/YOUR_USERNAME/project1](https://github.com/florah-nduati/blogIt))
-A full-stack PERN app where users can share their thouhts in form of blog posts, featuring React UI and PostgreSQL backend.
+### [BlogIt](https://github.com/florah-nduati/blogIt)
+A full-stack PERN app where users can share their thoughts in the form of blog posts, featuring React UI and PostgreSQL backend.
 
-### [Project 2 - Liyanna Luxury Tours]([https://github.com/YOUR_USERNAME/project2](https://github.com/florah-nduati/liyanna-tours))
+### [Liyanna Luxury Tours](https://github.com/florah-nduati/liyanna-website)
 A full stack booking system for Liyanna Luxury Tours company, featuring React UI and PostgreSQL backend.
 
 ---
 
 *Thanks for stopping by! Feel free to connect or collaborate 🤝*
-
