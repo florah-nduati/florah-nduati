@@ -6,12 +6,9 @@
 
 <table>
   <tr>
-    <!-- Photo Column -->
     <td>
       <img src="https://raw.githubusercontent.com/florah-nduati/florah-nduati/main/profile-photo.jpg" width="150" style="border-radius:50%;">
     </td>
-
-    <!-- About Me Column -->
     <td style="padding-left: 20px;">
       <strong>About Me</strong><br><br>
       I'm a full-stack developer specializing in the <b>PERN stack</b> (PostgreSQL, Express, React, Node.js).  
