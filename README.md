@@ -6,24 +6,26 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://your-image-link.com./profile-photo.jpg" width="180" style="border-radius:50%;">
-    </td>
-    <td>
-      <h3>About Me</h3>
-      I'm a full-stack developer specializing in the <b>PERN stack</b> (PostgreSQL, Express, React, Node.js).  
-      I enjoy crafting clean, maintainable code and building robust backend systems with efficient RESTful APIs.
+    <!-- Photo Column -->
+<td>
+  <img src="https://raw.githubusercontent.com/florah-nduati/florah-nduati/main/profile-photo.jpg" width="150" style="border-radius:50%;">
+</td>
 
-      <ul>
-        <li>🔭 Currently working on personal and open-source PERN projects</li>
-        <li>🌱 Continuously learning advanced backend design and cloud deployment</li>
-        <li>💬 Ask me about JavaScript, React, Node.js, PostgreSQL, REST APIs</li>
-        <li>👯 Open to collaborate on full-stack projects</li>
-        <li>⚡ Fun fact: I love solving coding puzzles and optimizing SQL queries!</li>
-      </ul>
+
+    <!-- About Me Column -->
+    <td>
+      <strong>About Me</strong><br><br>
+      I'm a full-stack developer specializing in the <b>PERN stack</b> (PostgreSQL, Express, React, Node.js).  
+      I enjoy crafting clean, maintainable code and building robust backend systems with efficient RESTful APIs.<br><br>
+      🔭 Currently working on personal and open-source PERN projects<br>
+      🌱 Continuously learning advanced backend design and cloud deployment<br>
+      💬 Ask me about JavaScript, React, Node.js, PostgreSQL, REST APIs<br>
+      👯 Open to collaborate on full-stack projects<br>
+      ⚡ Fun fact: I love solving coding puzzles and optimizing SQL queries!
     </td>
   </tr>
 </table>
+
 
 ---
 
